@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\bin\Debug\FigurasGeometrica.exe.config
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\bin\Debug\FigurasGeometrica.exe
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\bin\Debug\FigurasGeometrica.pdb
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\bin\Debug\FigurasGeometrica.xml
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.Form1.resources
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.Resources.resources
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.exe
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.xml
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.pdb
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.Form2.resources
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.Form3.resources
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.Form4.resources
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.Form5.resources
+C:\Users\user\Documents\Visual Studio 2022\FigurasGeometrica\FigurasGeometrica\obj\Debug\FigurasGeometrica.vbprojResolveAssemblyReference.cache
